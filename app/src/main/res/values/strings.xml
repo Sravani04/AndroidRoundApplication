@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android System Round Application</string>
+    <string name="employeename">Employee Name</string>
+    <string name="employeeEmail">Employee Email</string>
+    <string name="employeeDesignation">Employee Designation</string>
+    <string name="employeeSalary">Employee Salary</string>
+</resources>
