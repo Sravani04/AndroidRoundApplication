@@ -1,8 +1,9 @@
-package com.example.androidsystemroundapplication
+package com.example.androidsystemroundapplication.network
 
 import android.content.Context
 import android.net.ConnectivityManager
 import android.util.Log
+import com.example.androidsystemroundapplication.Constants
 import okhttp3.Cache
 import okhttp3.CacheControl
 import okhttp3.Interceptor

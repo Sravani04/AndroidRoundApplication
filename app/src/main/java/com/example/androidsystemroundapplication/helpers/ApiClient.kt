@@ -1,4 +1,5 @@
-package com.example.androidsystemroundapplication
+package com.example.androidsystemroundapplication.helpers
+import com.example.androidsystemroundapplication.Constants
 import com.google.gson.GsonBuilder
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor

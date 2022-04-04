@@ -1,5 +1,5 @@
 package com.example.androidsystemroundapplication.presenter.interfaces
 
-interface IEmployees {
-    fun getEmployeesList()
+interface IImagesList {
+    fun getImagesList()
 }

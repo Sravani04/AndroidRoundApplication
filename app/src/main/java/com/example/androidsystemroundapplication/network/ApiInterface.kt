@@ -1,6 +1,7 @@
-package com.example.androidsystemroundapplication
+package com.example.androidsystemroundapplication.network
 
 import com.example.androidsystemroundapplication.Model.response.EmployeesDataArray
+import com.example.androidsystemroundapplication.Model.response.ImagesList
 import retrofit2.Call
 import retrofit2.http.Body
 import retrofit2.http.GET
@@ -9,7 +10,7 @@ import retrofit2.http.GET
 //    var BASE_URL: String
 //        get() = "http://203.112.132.70:8013/api/"
 //        set(value) = TODO()
-    @GET("AndroidSystemTest/GetEmployeeData")
-    fun getEmployeesList(): Call<ArrayList<EmployeesDataArray?>?>?
+    @GET("photos")
+    fun getImagesList(): Call<ArrayList<ImagesList?>?>?
 
 }

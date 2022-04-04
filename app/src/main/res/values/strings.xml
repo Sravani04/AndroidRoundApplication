@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">Android System Round Application</string>
-    <string name="employeename">Employee Name</string>
-    <string name="employeeEmail">Employee Email</string>
-    <string name="employeeDesignation">Employee Designation</string>
-    <string name="employeeSalary">Employee Salary</string>
+    <string name="compareBtn">Compare</string>
+    <string name="comparisonTable">Comparison Table</string>
+    <string name="id">ID</string>
+    <string name="url">Url</string>
+    <string name="title">title</string>
+    <string name="photo">Photo</string>
+    <string name="remove">Remove</string>
 </resources>
